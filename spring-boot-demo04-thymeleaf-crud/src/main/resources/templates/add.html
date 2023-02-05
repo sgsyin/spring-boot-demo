@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+    <head>
+        <meta charset="UTF-8">
+        <title>添加嘉宾</title>
+    </head>
+    <body>
+        <h3>添加嘉宾</h3>
+        <form th:action="@{/guest/add}" method="post">
+            name:<input type="text" name="name">
+            role:<input type="text" name="role">
+            <input type="submit" value="add">
+        </form>
+    </body>
+</html>

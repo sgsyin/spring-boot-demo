@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/spring-boot-demo02-configuration/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo03-template/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo03-templates/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo04-thymeleaf-crud/pom.xml" />
       </list>
     </option>
   </component>
