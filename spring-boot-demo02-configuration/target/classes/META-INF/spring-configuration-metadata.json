@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "foot",
+      "type": "com.me.config.FootConfig",
+      "sourceType": "com.me.config.FootConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "foot.meat",
+      "type": "java.lang.String",
+      "sourceType": "com.me.config.FootConfig"
+    },
+    {
+      "name": "foot.rice",
+      "type": "java.lang.String",
+      "sourceType": "com.me.config.FootConfig"
+    }
+  ],
+  "hints": []
+}
