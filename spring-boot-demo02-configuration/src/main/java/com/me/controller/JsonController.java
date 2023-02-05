@@ -1,7 +1,9 @@
 package com.me.controller;
 
 import com.me.config.FootConfig;
+import com.me.config.VegetablesConfig;
 import com.me.domain.Foot;
+import com.me.domain.Vegetables;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -31,6 +33,33 @@ public class JsonController {
 
         foot.setMeat(footConfig.getMeat());
         foot.setRice(footConfig.getRice());
+        foot.setSauce(footConfig.getSauce());
         return foot;
     }
+
+    @Autowired
+    private VegetablesConfig vegetablesConfig;
+
+    @RequestMapping("/vegetables")
+    public Vegetables vegetables(){
+        Vegetables vegetables = new Vegetables();
+        vegetables.setPotato(vegetablesConfig.getPotato());
+        vegetables.setEggplant(vegetablesConfig.getEggplant());
+        vegetables.setGreenpeper(vegetablesConfig.getGreenpeper());
+        return vegetables;
+    }
+
+//    @Value("${info.username}")
+//    private String username;
+//    @Value("${info.password}")
+//    private String password;
+//
+//    @RequestMapping("/info")
+//    public String info(){
+//        StringBuffer stringBuffer = new StringBuffer();
+//        stringBuffer.append(username);
+//        stringBuffer.append("\t");
+//        stringBuffer.append(password);
+//        return stringBuffer.toString();
+//    }
 }

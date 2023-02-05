@@ -1,0 +1,30 @@
+#server:
+#  port: 8090
+
+spring:
+  profiles:
+    active: prod
+
+foot:
+#  rice: 烤肉
+#  meat: 拌饭
+  sauce:
+    - 咖喱
+    - 蜜汁
+    - 原味
+
+
+---
+#开发环境
+spring:
+  profiles: dev
+
+server:
+  port: 8081
+
+---
+#生产环境
+spring:
+  profiles: prod
+server:
+  port: 8082
