@@ -5,13 +5,13 @@
     <title>Title</title>
 </head>
 <body>
-<!--    <p th:text="${name}" >name</p>-->
-<!--    <p th:utext="${name}" >name</p>-->
+    <p th:text="${name}" >name</p>
+    <p th:utext="${name}" >name</p>
 
-<!--    <div th:object="${myBean}">-->
-<!--        <p>user: <span th:text="*{user}">user</span>.</p>-->
-<!--        <p>pass: <span th:text="*{pass}">pass</span>.</p>-->
-<!--    </div>-->
+    <div th:object="${myBean}">
+        <p>user: <span th:text="*{user}">user</span>.</p>
+        <p>pass: <span th:text="*{pass}">pass</span>.</p>
+    </div>
 
     <a href="/welcome" th:href="@{/welcome}">welcome</a>
 </body>
