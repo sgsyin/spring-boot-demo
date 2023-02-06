@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo03-template/spring-boot-demo03-template.iml" filepath="$PROJECT_DIR$/spring-boot-demo03-template/spring-boot-demo03-template.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo03-templates/spring-boot-demo03-templates.iml" filepath="$PROJECT_DIR$/spring-boot-demo03-templates/spring-boot-demo03-templates.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo04-thymeleaf-crud/spring-boot-demo04-thymeleaf-crud.iml" filepath="$PROJECT_DIR$/spring-boot-demo04-thymeleaf-crud/spring-boot-demo04-thymeleaf-crud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo05-RESTful/spring-boot-demo05-RESTful.iml" filepath="$PROJECT_DIR$/spring-boot-demo05-RESTful/spring-boot-demo05-RESTful.iml" />
     </modules>
   </component>
 </project>

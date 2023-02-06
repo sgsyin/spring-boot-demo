@@ -12,6 +12,7 @@
         <module name="spring-boot-demo04-thymeleaf-crud" />
         <module name="spring-boot-demo03-template" />
         <module name="spring-boot-demo01-hello" />
+        <module name="spring-boot-demo05-RESTful" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -20,6 +21,7 @@
       <module name="spring-boot-demo03-template" target="1.8" />
       <module name="spring-boot-demo03-templates" target="1.8" />
       <module name="spring-boot-demo04-thymeleaf-crud" target="1.8" />
+      <module name="spring-boot-demo05-RESTful" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -29,6 +31,7 @@
       <module name="spring-boot-demo03-template" options="-parameters" />
       <module name="spring-boot-demo03-templates" options="-parameters" />
       <module name="spring-boot-demo04-thymeleaf-crud" options="-parameters" />
+      <module name="spring-boot-demo05-RESTful" options="-parameters" />
     </option>
   </component>
 </project>
