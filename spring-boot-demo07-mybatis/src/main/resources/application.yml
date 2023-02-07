@@ -1,0 +1,20 @@
+server:
+  port: 8090
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test
+    username: root
+    password: root
+
+#mybatis . config-location=classpath:mybatis-config. xml
+#mybatis:
+#  config-location: classpath:mybatis-config.xml
+
+  #代替mybatis - config. xml的配置项
+  #mybatis .mapper-locations=c las spath*:/mapper s /*. xml
+  #mybatis .t ype-al iases -pac kage=sample.mybatis .domain
+#mybatis:
+#  mapper-locations: classpath*:mapper/*.xml
+#  type-aliases-package: com.me.domain

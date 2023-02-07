@@ -1,4 +1,4 @@
-package com.me.dao;
+package com.me.mapper;
 
 import com.me.domain.Guest;
 import org.springframework.stereotype.Repository;

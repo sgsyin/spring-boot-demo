@@ -1,6 +1,6 @@
 package com.me.service.impl;
 
-import com.me.dao.GuestDao;
+import com.me.mapper.GuestDao;
 import com.me.domain.Guest;
 import com.me.service.GuestService;
 import org.springframework.beans.factory.annotation.Autowired;

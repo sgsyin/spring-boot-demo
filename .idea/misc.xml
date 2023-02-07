@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/spring-boot-demo04-thymeleaf-crud/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo05-RESTful/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo06-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo07-mybatis/pom.xml" />
       </list>
     </option>
   </component>

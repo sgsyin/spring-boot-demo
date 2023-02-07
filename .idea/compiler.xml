@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-demo06-jpa" />
         <module name="spring-boot-demo03-template" />
+        <module name="spring-boot-demo07-mybatis" />
         <module name="spring-boot-demo05-RESTful" />
         <module name="spring-boot-demo02-configuration" />
         <module name="spring-boot-demo03-templates" />
@@ -24,6 +25,7 @@
       <module name="spring-boot-demo04-thymeleaf-crud" target="1.8" />
       <module name="spring-boot-demo05-RESTful" target="1.8" />
       <module name="spring-boot-demo06-jpa" target="1.8" />
+      <module name="spring-boot-demo07-mybatis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -35,6 +37,7 @@
       <module name="spring-boot-demo04-thymeleaf-crud" options="-parameters" />
       <module name="spring-boot-demo05-RESTful" options="-parameters" />
       <module name="spring-boot-demo06-jpa" options="-parameters" />
+      <module name="spring-boot-demo07-mybatis" options="-parameters" />
     </option>
   </component>
 </project>
