@@ -14,7 +14,9 @@
         <module name="spring-boot-demo02-configuration" />
         <module name="spring-boot-demo03-templates" />
         <module name="spring-boot-demo04-thymeleaf-crud" />
+        <module name="spring-boot-demo08-mybatis-plus" />
         <module name="spring-boot-demo01-hello" />
+        <module name="spring-boot-demo09-event-listener" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -26,6 +28,8 @@
       <module name="spring-boot-demo05-RESTful" target="1.8" />
       <module name="spring-boot-demo06-jpa" target="1.8" />
       <module name="spring-boot-demo07-mybatis" target="1.8" />
+      <module name="spring-boot-demo08-mybatis-plus" target="1.8" />
+      <module name="spring-boot-demo09-event-listener" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -38,6 +42,8 @@
       <module name="spring-boot-demo05-RESTful" options="-parameters" />
       <module name="spring-boot-demo06-jpa" options="-parameters" />
       <module name="spring-boot-demo07-mybatis" options="-parameters" />
+      <module name="spring-boot-demo08-mybatis-plus" options="-parameters" />
+      <module name="spring-boot-demo09-event-listener" options="-parameters" />
     </option>
   </component>
 </project>

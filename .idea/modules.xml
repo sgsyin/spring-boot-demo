@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo05-RESTful/spring-boot-demo05-RESTful.iml" filepath="$PROJECT_DIR$/spring-boot-demo05-RESTful/spring-boot-demo05-RESTful.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo06-jpa/spring-boot-demo06-jpa.iml" filepath="$PROJECT_DIR$/spring-boot-demo06-jpa/spring-boot-demo06-jpa.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo07-mybatis/spring-boot-demo07-mybatis.iml" filepath="$PROJECT_DIR$/spring-boot-demo07-mybatis/spring-boot-demo07-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo08-mybatis-plus/spring-boot-demo08-mybatis-plus.iml" filepath="$PROJECT_DIR$/spring-boot-demo08-mybatis-plus/spring-boot-demo08-mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo09-event-listener/spring-boot-demo09-event-listener.iml" filepath="$PROJECT_DIR$/spring-boot-demo09-event-listener/spring-boot-demo09-event-listener.iml" />
     </modules>
   </component>
 </project>

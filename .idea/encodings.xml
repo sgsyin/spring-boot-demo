@@ -10,5 +10,8 @@
     <file url="file://$PROJECT_DIR$/spring-boot-demo05-RESTful/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo06-jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo07-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-demo08-event-listener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-demo08-mybatis-plus/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-demo09-event-listener/src/main/java" charset="UTF-8" />
   </component>
 </project>

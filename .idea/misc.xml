@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/spring-boot-demo05-RESTful/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo06-jpa/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo07-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo08-mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo09-event-listener/pom.xml" />
       </list>
     </option>
   </component>
