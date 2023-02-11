@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo08-mybatis-plus/spring-boot-demo08-mybatis-plus.iml" filepath="$PROJECT_DIR$/spring-boot-demo08-mybatis-plus/spring-boot-demo08-mybatis-plus.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo09-event-listener/spring-boot-demo09-event-listener.iml" filepath="$PROJECT_DIR$/spring-boot-demo09-event-listener/spring-boot-demo09-event-listener.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo10-web-container/spring-boot-demo10-web-container.iml" filepath="$PROJECT_DIR$/spring-boot-demo10-web-container/spring-boot-demo10-web-container.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo11-filterAndInterceptor/spring-boot-demo11-filterAndInterceptor.iml" filepath="$PROJECT_DIR$/spring-boot-demo11-filterAndInterceptor/spring-boot-demo11-filterAndInterceptor.iml" />
     </modules>
   </component>
 </project>

@@ -16,6 +16,7 @@
         <module name="spring-boot-demo03-templates" />
         <module name="spring-boot-demo04-thymeleaf-crud" />
         <module name="spring-boot-demo08-mybatis-plus" />
+        <module name="spring-boot-demo11-filterAndInterceptor" />
         <module name="spring-boot-demo01-hello" />
         <module name="spring-boot-demo09-event-listener" />
       </profile>
@@ -32,6 +33,8 @@
       <module name="spring-boot-demo08-mybatis-plus" target="1.8" />
       <module name="spring-boot-demo09-event-listener" target="1.8" />
       <module name="spring-boot-demo10-web-container" target="1.8" />
+      <module name="spring-boot-demo11-filterAndInterceptor" target="1.8" />
+      <module name="spring-boot-demo11-web-container" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -47,6 +50,8 @@
       <module name="spring-boot-demo08-mybatis-plus" options="-parameters" />
       <module name="spring-boot-demo09-event-listener" options="-parameters" />
       <module name="spring-boot-demo10-web-container" options="-parameters" />
+      <module name="spring-boot-demo11-filterAndInterceptor" options="-parameters" />
+      <module name="spring-boot-demo11-web-container" options="-parameters" />
     </option>
   </component>
 </project>
