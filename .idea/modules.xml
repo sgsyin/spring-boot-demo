@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo10-web-container/spring-boot-demo10-web-container.iml" filepath="$PROJECT_DIR$/spring-boot-demo10-web-container/spring-boot-demo10-web-container.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo11-filterAndInterceptor/spring-boot-demo11-filterAndInterceptor.iml" filepath="$PROJECT_DIR$/spring-boot-demo11-filterAndInterceptor/spring-boot-demo11-filterAndInterceptor.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo12-error-exception/spring-boot-demo12-error-exception.iml" filepath="$PROJECT_DIR$/spring-boot-demo12-error-exception/spring-boot-demo12-error-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo13-logging/spring-boot-demo13-logging.iml" filepath="$PROJECT_DIR$/spring-boot-demo13-logging/spring-boot-demo13-logging.iml" />
     </modules>
   </component>
 </project>

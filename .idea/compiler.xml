@@ -11,6 +11,7 @@
         <module name="spring-boot-demo07-mybatis" />
         <module name="spring-boot-demo12-error-exception" />
         <module name="spring-boot-demo08-mybatis-plus" />
+        <module name="spring-boot-demo13-logging" />
         <module name="spring-boot-demo01-hello" />
         <module name="spring-boot-demo06-jpa" />
         <module name="spring-boot-demo10-web-container" />
@@ -37,6 +38,7 @@
       <module name="spring-boot-demo11-filterAndInterceptor" target="1.8" />
       <module name="spring-boot-demo11-web-container" target="1.8" />
       <module name="spring-boot-demo12-error-exception" target="1.8" />
+      <module name="spring-boot-demo13-logging" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -55,6 +57,7 @@
       <module name="spring-boot-demo11-filterAndInterceptor" options="-parameters" />
       <module name="spring-boot-demo11-web-container" options="-parameters" />
       <module name="spring-boot-demo12-error-exception" options="-parameters" />
+      <module name="spring-boot-demo13-logging" options="-parameters" />
     </option>
   </component>
 </project>
