@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/spring-boot-demo11-filterAndInterceptor/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo12-error-exception/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo13-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo14-swagger/pom.xml" />
       </list>
     </option>
   </component>

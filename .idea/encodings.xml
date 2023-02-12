@@ -18,5 +18,6 @@
     <file url="file://$PROJECT_DIR$/spring-boot-demo11-web-container/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo12-error-exception/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo13-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-demo14-swagger/src/main/java" charset="UTF-8" />
   </component>
 </project>
