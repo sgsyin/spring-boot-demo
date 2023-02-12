@@ -1,0 +1,1 @@
+insert into guest(id,name,role) values(1,'王源','大帅哥'),(2,'张新成','好身材');

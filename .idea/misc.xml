@@ -19,6 +19,7 @@
         <option value="$PROJECT_DIR$/spring-boot-demo13-logging/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo14-swagger/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo15-actuator/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo16-cache/pom.xml" />
       </list>
     </option>
   </component>
