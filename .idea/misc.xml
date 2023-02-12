@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/spring-boot-demo09-event-listener/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo10-web-container/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo11-filterAndInterceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo12-error-exception/pom.xml" />
       </list>
     </option>
   </component>
