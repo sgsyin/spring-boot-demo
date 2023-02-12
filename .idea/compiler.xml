@@ -10,6 +10,7 @@
         <module name="spring-boot-demo03-template" />
         <module name="spring-boot-demo07-mybatis" />
         <module name="spring-boot-demo14-swagger" />
+        <module name="spring-boot-demo15-actuator" />
         <module name="spring-boot-demo12-error-exception" />
         <module name="spring-boot-demo08-mybatis-plus" />
         <module name="spring-boot-demo13-logging" />
@@ -41,6 +42,7 @@
       <module name="spring-boot-demo12-error-exception" target="1.8" />
       <module name="spring-boot-demo13-logging" target="1.8" />
       <module name="spring-boot-demo14-swagger" target="1.8" />
+      <module name="spring-boot-demo15-actuator" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -61,6 +63,7 @@
       <module name="spring-boot-demo12-error-exception" options="-parameters" />
       <module name="spring-boot-demo13-logging" options="-parameters" />
       <module name="spring-boot-demo14-swagger" options="-parameters" />
+      <module name="spring-boot-demo15-actuator" options="-parameters" />
     </option>
   </component>
 </project>
